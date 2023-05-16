@@ -1203,6 +1203,7 @@ targets:
           copy_with: false
           equal: false
 ```
+**Note:** the options in `build.yaml` file should be snake_case like `copy_with` & `make_collections_unmodifiable`
 
 # Utilities
 
